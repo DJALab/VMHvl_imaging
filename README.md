@@ -6,4 +6,4 @@ This is a repository of sample code for analyses associated with the paper "Soci
 **10/16/2017: code is being cleaned up for readability and will be published to this repository in the next few days.**
 
 ## Contents
-Code is organized into subdirectories based on function. All code is written for data that has been loaded into a standard experiment structure "expt"; the data_builder directory contains code and instructions for getting your data into this format.
+All code is written for data that has been loaded into a standard experiment structure `expt` (see [`data_builder`](https://github.com/DJALab/VMHvl_imaging/tree/master/data_builder) for details.)
